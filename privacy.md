@@ -29,7 +29,7 @@ If you have any question or request regarding your personal data, contact us at 
 
 ## 2. What data we collect
 
-**Account data.** When you create an account we collect your email address and a password (stored only in securely hashed form), or — if you sign in with Apple or Google — the identifier and email address those services share with us. We never see your Apple or Google password.
+**Account data.** You create an account by signing in with Apple or Google. We receive the account identifier and email address that Apple or Google shares with us — we never see your Apple or Google password.
 
 **Profile data.** The profile you build in the app: name, date of birth and age, gender, profile photos, bio, city, spoken languages, the sports you select and your skill levels, availability, goals, training style, and hosting preferences. Your profile is visible to other users of the app — that is its purpose.
 
