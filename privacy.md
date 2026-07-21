@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy Policy — Hygge Activities
+title: Privacy Policy: Hygge Activities
 ---
 
 # Privacy Policy
@@ -12,7 +12,7 @@ This Privacy Policy explains what personal data the Hygge Activities mobile app 
 
 ## The short version
 
-- We collect only the data needed to run the app — your account, your profile, your activities, and your messages.
+- We collect only the data needed to run the app: your account, your profile, your activities, and your messages.
 - **We do not sell your data. We show no ads. We use no advertising or analytics trackers. Your data is never used to train AI models.**
 - Your data is stored in the **European Union**.
 - You can delete your account and all your data at any time, directly in the app.
@@ -31,7 +31,7 @@ If you have any question or request regarding your personal data, contact us at 
 
 **Account data.** You create an account by signing in with Apple or Google. We receive the account identifier and email address that Apple or Google shares with us — we never see your Apple or Google password.
 
-**Profile data.** The profile you build in the app: name, date of birth and age, gender, profile photos, bio, city, spoken languages, the sports you select and your skill levels, availability, goals, training style, and hosting preferences. Your profile is visible to other users of the app — that is its purpose.
+**Profile data.** The profile you build in the app: name, date of birth and age, gender, profile photos, bio, city, spoken languages, the sports you select and your skill levels, availability, goals, training style, and hosting preferences. Your profile is visible to other users of the app, that is its purpose.
 
 **Location data.** With your permission, the app uses your device's precise location to show activities near you and distances to other users. Location is used only while you are using the app; the app never tracks your location in the background. You can decline or revoke the location permission at any time in your device settings — the app remains usable without it. Activities you create also store the location you choose for them.
 
@@ -39,7 +39,7 @@ If you have any question or request regarding your personal data, contact us at 
 
 **Business profile data.** If you create a business profile: the business name, category, description, address, city, contact email, phone number, website, and logo/cover images. Business profiles are visible to other users.
 
-**Technical data.** A push notification token (so we can deliver notifications you have enabled), your online status and when you last used the app, your app settings (notifications, privacy toggles, language, units), and — if the app crashes or misbehaves — technical crash and performance reports via Sentry (device model, OS version, and what happened in the app at the time).
+**Technical data.** A push notification token (so we can deliver notifications you have enabled), your online status and when you last used the app, your app settings (notifications, privacy toggles, language, units), and, if the app crashes or misbehaves, technical crash and performance reports via Sentry (device model, OS version, and what happened in the app at the time).
 
 ## 3. What we do NOT collect or do
 
@@ -61,7 +61,7 @@ If you have any question or request regarding your personal data, contact us at 
 
 ## 5. Who can see or receive your data
 
-**Other users.** Your profile (name, age, photos, bio, city, sports, languages, reliability score), the activities you create or join, and your online status are visible to other users — this is the core of the app. You can hide your online status and distance in Settings, and you can block individual users. Messages are visible only to the people in that conversation.
+**Other users.** Your profile (name, age, photos, bio, city, sports, languages, reliability score), the activities you create or join, and your online status are visible to other users, this is the core of the app. You can hide your online status and distance in Settings, and you can block individual users. Messages are visible only to the people in that conversation.
 
 **Service providers (data processors).** We use a small number of providers to run the app. They process data only on our instructions:
 
@@ -86,7 +86,7 @@ Your data is stored and processed in the **European Union** (Supabase and Sentry
 - **Encrypted backups:** deleted data may persist in our database backups for a limited period (up to 30 days) before being overwritten.
 - **Crash reports (Sentry):** deleted automatically after at most 90 days.
 
-## 8. Security — an honest description
+## 8. Security: an honest description
 
 We protect your data with industry-standard measures:
 
@@ -113,7 +113,7 @@ Under the GDPR you have the right to:
 To exercise any of these rights, email **hyggeactivites@gmail.com**. We respond within one month.
 
 You also have the right to lodge a complaint with the Danish Data Protection Authority:
-**Datatilsynet**, Carl Jacobsens Vej 35, 2500 Valby, Denmark — [www.datatilsynet.dk](https://www.datatilsynet.dk)
+**Datatilsynet**, Carl Jacobsens Vej 35, 2500 Valby, Denmark, [www.datatilsynet.dk](https://www.datatilsynet.dk)
 
 ## 10. Children
 
