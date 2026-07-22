@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy Policy: Hygge Activities
+title: "Privacy Policy: Hygge Activities"
 ---
 
 # Privacy Policy
@@ -29,11 +29,11 @@ If you have any question or request regarding your personal data, contact us at 
 
 ## 2. What data we collect
 
-**Account data.** You create an account by signing in with Apple or Google. We receive the account identifier and email address that Apple or Google shares with us — we never see your Apple or Google password.
+**Account data.** You create an account by signing in with Apple or Google. We receive the account identifier and email address that Apple or Google shares with us. We never see your Apple or Google password.
 
 **Profile data.** The profile you build in the app: name, date of birth and age, gender, profile photos, bio, city, spoken languages, the sports you select and your skill levels, availability, goals, training style, and hosting preferences. Your profile is visible to other users of the app, that is its purpose.
 
-**Location data.** With your permission, the app uses your device's precise location to show activities near you and distances to other users. Location is used only while you are using the app; the app never tracks your location in the background. You can decline or revoke the location permission at any time in your device settings — the app remains usable without it. Activities you create also store the location you choose for them.
+**Location data.** The app uses the **city you set in your profile** to show activities in your area. It does not access your device's GPS and does not track your location in the background. Activities you create or join also include the location name and city that the host chooses for them.
 
 **Content you create.** Messages you send in chats (one-to-one and activity group chats), activities you create or join, reliability reviews you give after activities, and reports you submit about other users or messages.
 
@@ -55,7 +55,7 @@ If you have any question or request regarding your personal data, contact us at 
 | Purpose | Legal basis |
 |---|---|
 | Creating and operating your account, showing your profile, matching you with activities, delivering messages | Performance of a contract (Art. 6(1)(b)) |
-| Using your precise location; sending push notifications; accessing your camera/photos for profile pictures | Your consent (Art. 6(1)(a)) — each is optional and can be withdrawn at any time |
+| Sending push notifications; accessing your photos for profile pictures | Your consent (Art. 6(1)(a)), each is optional and can be withdrawn at any time |
 | Moderating reported content, blocking abusive users, keeping the service safe and secure, fixing crashes | Our legitimate interests (Art. 6(1)(f)) in a safe, functioning service |
 | Complying with legal obligations (e.g. responding to lawful requests from authorities) | Legal obligation (Art. 6(1)(c)) |
 
@@ -67,7 +67,7 @@ If you have any question or request regarding your personal data, contact us at 
 
 | Provider | What they do | Where |
 |---|---|---|
-| **Supabase** | Database, authentication, and file storage — where your account, profile, photos, and messages live | European Union |
+| **Supabase** | Database, authentication, and file storage, where your account, profile, photos, and messages live | European Union |
 | **Sentry** | Crash and performance reporting | European Union (Frankfurt, Germany) |
 | **Expo (EAS)** | Routing of push notifications to your device | United States |
 | **Apple / Google** | Sign-in (if you choose Apple or Google login) and final delivery of push notifications (APNs / FCM) | Per their own terms |
@@ -78,11 +78,11 @@ We have data processing agreements with our providers as required by Art. 28 GDP
 
 ## 6. International transfers
 
-Your data is stored and processed in the **European Union** (Supabase and Sentry both use EU data centers). One narrow exception: **push notifications** are routed through Expo's service in the United States. This transfer includes your push token and the notification content (for example, a sender name and message preview). It is safeguarded by the EU–US Data Privacy Framework and/or EU Standard Contractual Clauses. You can prevent this entirely by disabling push notifications in the app's Settings or your device settings.
+Your data is stored and processed in the **European Union** (Supabase and Sentry both use EU data centers). One narrow exception: **push notifications** are routed through Expo's service in the United States. This transfer includes your push token and the notification content (for example, a sender name and message preview). It is safeguarded by the EU-US Data Privacy Framework and/or EU Standard Contractual Clauses. You can prevent this entirely by disabling push notifications in the app's Settings or your device settings.
 
 ## 7. How long we keep your data
 
-- **Your account, profile, photos, messages, and activities:** until you delete your account. Deletion removes your data immediately and permanently — see [Delete Your Account](./delete-account.html).
+- **Your account, profile, photos, messages, and activities:** until you delete your account. Deletion removes your data immediately and permanently. See [Delete Your Account](./delete-account.html).
 - **Encrypted backups:** deleted data may persist in our database backups for a limited period (up to 30 days) before being overwritten.
 - **Crash reports (Sentry):** deleted automatically after at most 90 days.
 
@@ -95,7 +95,7 @@ We protect your data with industry-standard measures:
 - Database access is protected by row-level security rules, so each user can only access the data they are entitled to see.
 - Login credentials on your device are stored in the operating system's secure storage.
 
-**What we want you to understand clearly:** chats in Hygge Activities are **not end-to-end encrypted**. Messages are stored on our servers protected by the measures above, and can be accessed by us in narrow circumstances — in particular, when a message is reported by a user and must be reviewed for moderation, or where the law requires it. Please don't share highly sensitive information (such as payment details or identity documents) in chat.
+**What we want you to understand clearly:** chats in Hygge Activities are **not end-to-end encrypted**. Messages are stored on our servers protected by the measures above, and can be accessed by us in narrow circumstances, in particular when a message is reported by a user and must be reviewed for moderation, or where the law requires it. Please don't share highly sensitive information (such as payment details or identity documents) in chat.
 
 **If a data breach happens:** we will notify the Danish Data Protection Authority (Datatilsynet) within 72 hours as required by Art. 33 GDPR, and inform affected users without undue delay if the breach is likely to result in a high risk to them.
 
@@ -107,7 +107,7 @@ Under the GDPR you have the right to:
 - **Rectify** inaccurate data (most profile data you can edit directly in the app);
 - **Erase** your data (use in-app deletion, or email us);
 - **Restrict** or **object to** certain processing;
-- **Data portability** — receive your data in a machine-readable format;
+- **Data portability**: receive your data in a machine-readable format;
 - **Withdraw consent** at any time (e.g. disable location or push permissions) without affecting past processing.
 
 To exercise any of these rights, email **hyggeactivites@gmail.com**. We respond within one month.
@@ -125,5 +125,5 @@ If we change this policy in a meaningful way, we will inform you in the app befo
 
 ## 12. Contact
 
-**Hygge Activities** (Alan Haman — data controller)
+**Hygge Activities** (Alan Haman, data controller)
 Email: **hyggeactivites@gmail.com**

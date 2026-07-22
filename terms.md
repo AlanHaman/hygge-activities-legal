@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Terms of Service — Hygge Activities
+title: "Terms of Service: Hygge Activities"
 ---
 
 # Terms of Service
@@ -14,7 +14,7 @@ These Terms of Service ("Terms") govern your use of the Hygge Activities mobile 
 
 Hygge Activities helps people find and join sports and social activities, and chat with other participants. **We provide the platform only.** Activities are created and hosted by users (or businesses), not by us. We are not a party to, and take no responsibility for, what happens at activities or between users.
 
-The app is free to use. Some activities may display a price set by their host; any such payment happens directly between you and the host, outside the app — we do not process payments and are not involved in them.
+The app is free to use. Some activities may display a price set by their host; any such payment happens directly between you and the host, outside the app. We do not process payments and are not involved in them.
 
 ## 2. Who may use the app
 
@@ -25,11 +25,11 @@ You must be **at least 16 years old** to use Hygge Activities. By creating an ac
 - Provide accurate information and keep it up to date.
 - Keep your login credentials secret. You are responsible for activity on your account.
 - One account per person. Do not create accounts for others or impersonate anyone.
-- You can delete your account at any time in the app (Profile → Delete Account) — see [Delete Your Account](./delete-account.html).
+- You can delete your account at any time in the app (Profile → Delete Account). See [Delete Your Account](./delete-account.html).
 
 ## 4. Your content and conduct
 
-You keep ownership of the content you post (profile, photos, messages, activities, reviews). You grant us the non-exclusive right to host, store, and display that content as needed to operate the app — for example, showing your profile to other users. This right ends when you delete the content or your account.
+You keep ownership of the content you post (profile, photos, messages, activities, reviews). You grant us the non-exclusive right to host, store, and display that content as needed to operate the app, for example showing your profile to other users. This right ends when you delete the content or your account.
 
 **Zero-tolerance policy.** We have **zero tolerance for objectionable content and abusive users**. It is prohibited to use Hygge Activities to:
 
@@ -45,7 +45,7 @@ You keep ownership of the content you post (profile, photos, messages, activitie
 
 **Moderation.** The app provides tools to **report** users and messages and to **block** users (blocking immediately hides that person's content from you). We review reports and act on objectionable content **within 24 hours**, including removing content and ejecting the users responsible. We may remove content, suspend, or permanently ban any account that violates these Terms, at our discretion and without prior warning where necessary.
 
-## 5. Meeting people and physical activities — safety
+## 5. Meeting people and physical activities: safety
 
 Hygge Activities connects people for real-world activities. Please use common sense:
 
@@ -70,7 +70,7 @@ The app, its design, and its software are our property or licensed to us. These 
 
 ## 9. Availability and changes to the service
 
-We work to keep the app available and reliable, but it is provided **"as is" and "as available"** — we cannot guarantee uninterrupted or error-free operation. We may change, suspend, or discontinue features (or the entire service) with reasonable notice where feasible.
+We work to keep the app available and reliable, but it is provided **"as is" and "as available"**. We cannot guarantee uninterrupted or error-free operation. We may change, suspend, or discontinue features (or the entire service) with reasonable notice where feasible.
 
 ## 10. Termination
 

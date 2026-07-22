@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Delete Your Account — Hygge Activities
+title: "Delete Your Account: Hygge Activities"
 ---
 
 # Delete Your Account
 
-You can delete your Hygge Activities account and all data associated with it at any time. Deletion is **immediate and permanent** — it cannot be undone.
+You can delete your Hygge Activities account and all data associated with it at any time. Deletion is **immediate and permanent**, and it cannot be undone.
 
-## Option 1: In the app (recommended — instant)
+## Option 1: In the app (recommended, instant)
 
 1. Open **Hygge Activities**
 2. Go to the **Profile** tab
